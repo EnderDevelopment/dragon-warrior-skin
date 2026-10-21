@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" shape-rendering="crispEdges">
+  <!-- Head -->
+  <rect x="16" y="0" width="32" height="32" fill="#F5F5DC" />
+  <!-- Hair -->
+  <rect x="16" y="0" width="32" height="8" fill="#708090" />
+  <!-- Eyes -->
+  <rect x="24" y="12" width="4" height="4" fill="#708090" />
+  <rect x="36" y="12" width="4" height="4" fill="#708090" />
+  <!-- Body -->
+  <rect x="20" y="32" width="24" height="16" fill="#F5F5DC" />
+  <!-- T-Shirt -->
+  <rect x="20" y="32" width="24" height="16" fill="#000000" />
+  <!-- Dragon Illustration -->
+  <path d="M24 36 L28 40 L32 36 L36 40 L40 36" stroke="#FFFFFF" stroke-width="2" fill="none" />
+  <!-- Cargo Pants -->
+  <rect x="20" y="48" width="24" height="8" fill="#708090" />
+  <!-- Boots -->
+  <rect x="20" y="56" width="24" height="8" fill="#000000" />
+</svg>
